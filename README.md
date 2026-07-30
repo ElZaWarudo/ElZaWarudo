@@ -27,3 +27,5 @@ I build practical open-source software around agent interfaces, privacy, automat
 - Agent interfaces that operate real applications through explicit, inspectable contracts.
 - Local-first tools that keep control, state, and sensitive data close to the user.
 - Small products that solve a concrete problem and can grow through real use.
+
+<!-- profile-readme-refresh: 2026-07-30 -->
