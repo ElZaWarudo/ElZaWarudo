@@ -4,12 +4,6 @@
 
 I build practical open-source software around agent interfaces, privacy, automation, and native experiences. I care about clear boundaries, useful defaults, and tools people can inspect and run themselves.
 
-## Start Here
-
-- 🎬 [**Unilink**](https://github.com/ElZaWarudo/unilink) — start playback in Stremio and continue watching from a browser on another device in the same local network.
-- 🧭 [**pumarejo**](https://github.com/ElZaWarudo/pumarejo) — give MCP clients semantic control of an instrumented Tauri 2 WebView without taking over the desktop pointer.
-- 🛡️ [**Mr Hide**](https://github.com/ElZaWarudo/mr-hide) — protect supported PII and technical secrets locally before Codex or Claude Code traffic reaches an inference provider.
-
 ## Current Projects
 
 ### Agent Tools & Infrastructure
