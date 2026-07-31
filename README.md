@@ -8,7 +8,7 @@ I build practical open-source software around agent interfaces, privacy, automat
 
 ### Agent Tools & Infrastructure
 
-- 🧭 [**pumarejo**](https://github.com/ElZaWarudo/pumarejo) — semantic, snapshot-based automation for Tauri applications.
+- 🌉 [**pumarejo**](https://github.com/ElZaWarudo/pumarejo) — semantic, snapshot-based automation for Tauri applications.
 - 🛡️ [**Mr Hide**](https://github.com/ElZaWarudo/mr-hide) — a local, reversible privacy boundary for supported coding agents.
 - ⚡ [**ocgo**](https://github.com/ElZaWarudo/ocgo) — use an OpenCode Go subscription from Claude Code or Codex CLI through a local compatibility proxy.
 - ⚔️ [**KRT**](https://github.com/ElZaWarudo/KRT) — portable agent skills for requirements, delivery orchestration, repo health, and release hygiene.
