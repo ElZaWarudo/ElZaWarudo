@@ -16,7 +16,7 @@ I build practical open-source software around agent interfaces, privacy, automat
 ### Local-First Apps
 
 - 🎬 [**Unilink**](https://github.com/ElZaWarudo/unilink) — a Tauri tray app that brings Stremio playback, subtitles, and episode queues to a second screen on your local network.
-- 🍷 [**Tinto**](https://github.com/ElZaWarudo/tinto) — a read-only desktop monitor for local Git repositories while coding agents edit them.
+- ☕ [**Tinto**](https://github.com/ElZaWarudo/tinto) — a read-only desktop monitor for local Git repositories while coding agents edit them.
 
 ## What I'm Building
 
